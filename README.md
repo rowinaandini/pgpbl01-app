@@ -1,0 +1,2 @@
+# reciclica-app
+Aplikasi Reciclica
